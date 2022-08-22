@@ -1,0 +1,2 @@
+create table customer (
+    id              serial   primary key, name            varchar(20));
